@@ -1,0 +1,44 @@
+Mono path[0] = 'C:/Users/pc-14/Documents/RinExe/RinExe/test_Data/Managed'
+Mono config path = 'C:/Users/pc-14/Documents/RinExe/RinExe/test_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/pc-14/Documents/RinExe/RinExe/test_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55365
+Multi-casting "[IP] 192.168.198.187 [Port] 55365 [Flags] 2 [Guid] 3045642136 [EditorId] 3090326901 [Version] 1048832 [Id] WindowsPlayer(msk-z14) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55365]
+PlayerConnection already initialized - listening to [0.0.0.0:55365]
+Player data archive not found at `C:/Users/pc-14/Documents/RinExe/RinExe/test_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8085 MB
+    Driver:   10.18.13.6881
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\pc-14\Documents\RinExe\RinExe\test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.032 seconds
+<RI> Initializing input.
+<RI> Input initialized.
